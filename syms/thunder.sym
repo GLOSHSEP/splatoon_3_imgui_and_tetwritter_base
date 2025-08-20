@@ -1,4 +1,4 @@
 @thunder:1001
 
 //procdraw
-procdraw_hook = 0x044ed780
+procdraw_hook = {09 69 47 b9 09 65 07 b9 0a 5d 47 b9 0a 69 07 b9 0a 61 47 b9 3f 01 0a 2b} @ thunder>1001 - 0x60
