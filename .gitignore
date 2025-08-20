@@ -1,0 +1,5 @@
+.cache
+build
+lib/std
+sys/hakkun/sail/build
+compile_commands.json
